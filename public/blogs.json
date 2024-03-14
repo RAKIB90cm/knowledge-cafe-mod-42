@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover-img": "https://i.ibb.co/RPCVvHc/close-up-hand-with-painting-pallete.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author-img": "https://i.ibb.co/85w7R2w/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "reading time": 10,
+      "hashtags": ["programming", "coding", "technology"],
+      "post date": "2024-03-14"
+    },
+    {
+      "id": 2,
+      "cover-img": "https://i.ibb.co/RPCVvHc/close-up-hand-with-painting-pallete.jpg",
+      "title": "Cooking Masterclass",
+      "author": "Jane Smith",
+      "author-img": "https://i.ibb.co/85w7R2w/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "reading time": 15,
+      "hashtags": ["cooking", "recipes", "food"],
+      "post date": "2024-03-13"
+    },
+    {
+      "id": 3,
+      "cover-img": "https://i.ibb.co/RPCVvHc/close-up-hand-with-painting-pallete.jpg",
+      "title": "Fitness Journey",
+      "author": "Alex Johnson",
+      "author-img": "https://i.ibb.co/85w7R2w/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "reading time": 20,
+      "hashtags": ["fitness", "exercise", "health"],
+      "post date": "2024-03-12"
+    },
+    {
+      "id": 4,
+      "cover-img": "https://i.ibb.co/RPCVvHc/close-up-hand-with-painting-pallete.jpg",
+      "title": "Travel Adventures",
+      "author": "Emily Wilson",
+      "author-img": "https://i.ibb.co/85w7R2w/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "reading time": 25,
+      "hashtags": ["travel", "adventure", "explore"],
+      "post date": "2024-03-11"
+    },
+    {
+      "id": 5,
+      "cover-img": "https://i.ibb.co/RPCVvHc/close-up-hand-with-painting-pallete.jpg",
+      "title": "Financial Tips",
+      "author": "Michael Brown",
+      "author-img": "https://i.ibb.co/85w7R2w/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+      "reading time": 12,
+      "hashtags": ["finance", "money", "investment"],
+      "post date": "2024-03-10"
+    }
+  ]
+  
